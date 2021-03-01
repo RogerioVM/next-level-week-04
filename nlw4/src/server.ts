@@ -1,3 +1,3 @@
-import { app } from './app' 
+import { app } from "./app";
 
-app.listen(8086, () => console.log('Servidor ouvindo porta 8086'));
+app.listen(8086, () => console.log("Server is running on 8086 port!"));
